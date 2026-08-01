@@ -4,13 +4,13 @@ by Yamin Zhang, Fabing Duan, Francois Chapeau-Blondeau, and Derek Abbott, submit
 --------------------------------------------------------------------------------------------------------------------------
 CGAN(四种激活函数+梯度范数图)20251109 .ipynb: This comprehensive Jupyter Notebook provides an in-depth implementation of a Conditional Generative Adversarial Network (CGAN), featuring a comparative analysis of four distinct activation functions alongside detailed visualizations of their respective gradient norm dynamics during the training process. (not included in paper)
 
-CIFAR 10 GAN GEU Cauchy supplement.ipynb: Supplementary experiments applying a GAN with a Generalized Exponential Unit (GEU) and Cauchy noise to the CIFAR-10 dataset. (CIFAR-10)
+CIFAR 10 GAN GEU Cauchy supplement.ipynb: Supplementary experiments applying a GAN with a Generalized Exponential Unit (GEU) and Cauchy noise to the CIFAR-10 dataset by FID and IS. (CIFAR-10)
 
-Fig 5 MInist GAN 3 activations.ipynb: Code to generate Figure 5, which conducts a thorough comparative study of a GAN trained on the MNIST dataset, evaluating the generative quality and convergence behavior across three different activation functions.(MNIST)
+Fig 5 MInist GAN 3 activations.ipynb: Code to generate Figure 5 (Fig7 in revised version), which conducts a thorough comparative study of a GAN trained on the MNIST dataset, evaluating the generative quality and convergence behavior across three different activation functions.(MNIST)
 
-Fig14-15 compare.ipynb: A notebook designed to reproduce and compare the experimental results shown in Figures 14 and 15 on MNIST dataset.(MNIST)
+Fig14-15 compare.ipynb: A notebook designed to reproduce and compare the experimental results shown in Figures 14 and 15 on MNIST dataset.(An ablation study on MNIST old version)
 
-Fig14-15compare.ipynb: An alternate or updated version of the notebook used for comparing the results of Figures 14 and 15 on MNIST dataset.(MNIST)
+Fig14-15compare.ipynb: An alternate or updated version of the notebook used for comparing the results of Figures 14 and 15 on MNIST dataset.(An ablation study on MNIST, updated version)
 
 Fig2-4 GAN改P=1000-2026.ipynb: A modified GAN implementation for generating Figures 2 through 4, setting the parameter samples number P=1000 (GMM).
 
@@ -26,9 +26,9 @@ Fig7-8 CIFAR-GAN (2).ipynb: A secondary notebook used for generating Figures 7 a
 
 Fig7-8 CIFAR-GAN.ipynb: The primary script to generate Figures 7 and 8 exploring GAN results on the CIFAR dataset.(CIFAR-10)
 
-Fig9 CIFAR10.ipynb: A notebook for plotting Figure 9, focusing specifically on CIFAR-10 experiments.(CIFAR-10)
+Fig9 CIFAR10.ipynb: A notebook for plotting Figure 9 (including Figs 11-13 in revised version), focusing specifically on CIFAR-10 experiments.(CIFAR-10)
 
-FigCifar Fig9-2026.ipynb: An updated script for generating Figure 9 based on recent CIFAR dataset trials. (CIFAR-10)
+FigCifar Fig9-2026.ipynb: An updated script for generating Figure 9 (including Figs 11-13 in revised version) based on recent CIFAR dataset trials. (CIFAR-10)
 
 FigMnist vsig sigma=1.0.ipynb: An experiment on the MNIST dataset analyzing visual signatures with the standard deviation (sigma) set to 1.0. (MNIST)
 
