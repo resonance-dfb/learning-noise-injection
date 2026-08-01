@@ -1,6 +1,6 @@
 This GitHub repository contains the source code for paper "On stabilizing generative adversarial networks with adaptive noise injection,''
 by Yamin Zhang, Fabing Duan, Francois Chapeau-Blondeau, and Derek Abbott, submitted to Physical Review E. The related codes are:
-
+\\
 CGAN(四种激活函数+梯度范数图)20251109 .ipynb: A Jupyter Notebook exploring Conditional GANs using four different activation functions and plotting their gradient norm graphs.(not included in paper)
 
 CIFAR 10 GAN GEU Cauchy supplement.ipynb: Supplementary experiments applying a GAN with a Generalized Exponential Unit (GEU) and Cauchy noise to the CIFAR-10 dataset. (CIFAR-10)
