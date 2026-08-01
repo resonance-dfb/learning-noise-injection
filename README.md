@@ -12,7 +12,7 @@ Fig14-15 compare.ipynb: A notebook designed to reproduce and compare the experim
 
 Fig14-15compare.ipynb: An alternate or updated version of the notebook used for comparing the results of Figures 14 and 15 on MNIST dataset.(An ablation study on MNIST, updated version)
 
-Fig2-4 GAN改P=1000-2026.ipynb: A modified GAN implementation for generating Figures 2 through 4, setting the parameter samples number P=1000 (GMM).
+Fig2-4 GAN改P=1000-2026.ipynb: A modified GAN implementation for generating Figures 2 through 4 (Figs5-6 in revised version), setting the parameter samples number P=1000 (GMM).
 
 Fig2-4 GAN高斯饱和loss与梯度20250713.ipynb: An analysis of Gaussian saturation loss and gradients in GANs, producing Figures 2 to 4 (samples number p=100, GMM).
 
@@ -20,7 +20,7 @@ Fig2ab 生成器loss和梯度.ipynb: A script dedicated to calculating and plott
 
 Fig4 GAN 20260402.ipynb: A specific notebook containing the code to generate Figure 4 for the GAN experiments.(GMM)
 
-Fig5-Mnist 2026.ipynb: This updated notebook contains the most recent algorithmic refinements and plotting scripts used to evaluate the GAN's performance on the MNIST dataset, culminating in the generation of Figure 5. (MNIST)
+Fig5-Mnist 2026.ipynb: This updated notebook contains the most recent algorithmic refinements and plotting scripts used to evaluate the GAN's performance on the MNIST dataset, culminating in the generation of Figure 5 (Figs 7-8 in revised version). (MNIST)
 
 Fig7-8 CIFAR-GAN (2).ipynb: A secondary notebook used for generating Figures 7 and 8 to evaluate GAN performance on CIFAR.(CIFAR-10)
 
